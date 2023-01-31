@@ -23,7 +23,7 @@ If you are a new on-boarding student worker, you must read this document at leas
 
 ###### To Update This Document
 1. Login to Github as the `cu-av-department` user. 
-2. Select `student-worker-manual` repository. Remain in `master` branch. 
+2. Select `student-worker-manual` repository. Remain in `main` branch. 
 3. Edit file on Github. `Preview` the file at least once prior to committing changes.  
     - Refer to [Github Markdown Syntax Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as needed. 
 4. Commit changes. 
